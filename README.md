@@ -18,4 +18,4 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ### Components division
 
-[![Miro Board](assets\images\components_division.png)](https://miro.com/app/board/uXjVGlCfpkQ=/)
+[![Miro Board](assets/images/components_division.png)](https://miro.com/app/board/uXjVGlCfpkQ=/)
